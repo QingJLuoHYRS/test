@@ -1,5 +1,5 @@
 {
-    "name": "cbit_IR",
+    "name": "cbit_IRS",
     "version": "1.0.0",
     "description": "Extension for ZYRobot m:bit IR receiver module",
     "license": "MIT",
